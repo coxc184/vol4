@@ -1,0 +1,30 @@
+body{
+background-image: url(img/IMG_9389.JPG);
+color: #ffffff;
+background-color: cornflowerblue;
+text-shadow: 25cap black;
+
+
+}
+
+#volume4{
+
+    color: #ffffff;
+}
+ #volume4:hover{
+
+    text-decoration: wavy;
+    letter-spacing: 2px;
+    font-size: x-large;
+    color: #b10121;
+}
+
+a:link{
+
+color: #ffffff;
+text-decoration: underline;
+
+
+
+}
+
